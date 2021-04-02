@@ -1,0 +1,340 @@
+X-From_: herbapol.zamowienia@ebi.pl Mon Sep 14 15:54:10 2009
+Return-Path: <herbapol.zamowienia@ebi.pl>
+Delivered-To: autoimport@domena.com.pl
+Received: from mail-b.ebi.pl (HELO mail.ebi.pl) (193.138.208.37)
+  by m080.home.net.pl with SMTP; Mon, 14 Sep 2009 13:54:10 -0000
+Received: from localhost (localhost [127.0.0.1])
+	by mail.ebi.pl (EBI Mail Delivery Service) with ESMTP id 99ED65C12AC0
+	for <sprzedaz.unima@domena.pl>; Mon, 14 Sep 2009 15:54:08 +0200 (CEST)
+Received: from mail.ebi.pl ([127.0.0.1])
+	by localhost (blue.ebi.pl [195.117.194.3]) (amavisd-new, port 10024)
+	with ESMTP id axoD9BbjtPff for <sprzedaz.unima@domena.pl>;
+	Mon, 14 Sep 2009 15:54:08 +0200 (CEST)
+Received: from connie3.ebi.pl (clients.connector.ebi.pl [193.138.208.40])
+	by mail.ebi.pl (EBI Mail Delivery Service) with ESMTP id 4F93C5C12A44
+	for <sprzedaz.unima@domena.pl>; Mon, 14 Sep 2009 15:54:08 +0200 (CEST)
+Date: Mon, 14 Sep 2009 15:54:08 +0200 (CEST)
+From: herbapol.zamowienia@ebi.pl
+To: sprzedaz.unima@domena.pl
+Message-ID: <43a8e2b1-37b4-4327-9df7-f103403fdfdc@connector.ebi.pl>
+Subject: Zamowienia Herbapol
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_10749_400571625.1252936448654"
+X-Ebi-Pracownik: Zakrzewski
+X-Hurtownia: "UNIMA" SP. Z O.O.
+X-Ebi-Zamowienie: 3827469
+X-EBI-PDF: 1
+X-Connector-Queue-ID: 417065572
+X-Connector-Message-ID: 43a8e2b1-37b4-4327-9df7-f103403fdfdc
+
+------=_Part_10749_400571625.1252936448654
+Content-Type: multipart/related; 
+	boundary="----=_Part_10750_46068030.1252936448654"
+
+------=_Part_10750_46068030.1252936448654
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+
+
+------=_Part_10750_46068030.1252936448654--
+
+------=_Part_10749_400571625.1252936448654
+Content-Type: application/x-ebi; name=09_14_155408_02d68e03.txt
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; filename=09_14_155408_02d68e03.txt
+
+**************************** ZAMOWIENIA HERBAPOL *******************************
+
+================================================================================
+|NR ZAMOWIENIE       |3827469                                                  |
+|HURTOWNIA           |"UNIMA" SP. Z O.O.                                       |
+|DATA ZAMOWIENIA     |2009-09-14                                               |
+|DATA DOSTAWY        |2009-09-15                                               |
+|ODBIORCA            |WANDA CZAJKA ZIEL-GORA MIESZKA I 1                       |
+|NIP                 |9290097448                                               |
+|PLATNIK             |WANDA CZAJKA                                             |
+|PRACOWNIK           |Marek Zakrzewski                                         |
+|FORMA PLATNOSCI     |P                                                        |
+|UWAGI               |                                                         |
+================================================================================
+================================================================================
+|Lp.|EAN           |NAZWA                                     |ILOSC  |JM    |G|
+================================================================================
+|  1|5900956000633 |HO Malina                                 |  18.00|sztuka| |
+|  2|5900956000657 |HO Owoce i Owoce                          |   6.00|sztuka| |
+|  3|5900956000688 |HO Prosto z Lasu                          |   6.00|sztuka| |
+|  4|5900956100647 |OS Aronia                                 |  16.00|sztuka| |
+|  5|5900956101576 |OS Grapefruit                             |   8.00|sztuka| |
+|  6|5900956100616 |OS Malina z lipa                          |   8.00|sztuka| |
+|  7|5900956102443 |OS Malina z Zurawina                      |   8.00|sztuka| |
+|  8|1             |OS Premium Poziomka                       |   8.00|sztuka| |
+|  9|5900956004662 |SF Baton zbozowy orzechowy                |  26.00|sztuka| |
+--------------------------------------------------------------------------------
+Koniec zamowienia 3827469
+
+
+================================================================================
+|NR ZAMOWIENIE       |3827470                                                  |
+|HURTOWNIA           |"UNIMA" SP. Z O.O.                                       |
+|DATA ZAMOWIENIA     |2009-09-14                                               |
+|DATA DOSTAWY        |2009-09-15                                               |
+|ODBIORCA            |MALKIEWICZ BAR OLSZYNA 0lszyna 1                         |
+|NIP                 |9291697848                                               |
+|PLATNIK             |MALKIEWICZ BAR                                           |
+|PRACOWNIK           |Marek Zakrzewski                                         |
+|FORMA PLATNOSCI     |P                                                        |
+|UWAGI               |                                                         |
+================================================================================
+================================================================================
+|Lp.|EAN           |NAZWA                                     |ILOSC  |JM    |G|
+================================================================================
+|  1|5900956100838 |MAX Malina 5 l                            |  10.00|sztuka| |
+--------------------------------------------------------------------------------
+Koniec zamowienia 3827470
+
+
+================================================================================
+|NR ZAMOWIENIE       |3827467                                                  |
+|HURTOWNIA           |"UNIMA" SP. Z O.O.                                       |
+|DATA ZAMOWIENIA     |2009-09-14                                               |
+|DATA DOSTAWY        |2009-09-15                                               |
+|ODBIORCA            |ALMA ZIELONA GORA WROCLAWSKA 17                          |
+|NIP                 |6760016731                                               |
+|PLATNIK             |ALMA                                                     |
+|PRACOWNIK           |Marek Zakrzewski                                         |
+|FORMA PLATNOSCI     |P                                                        |
+|UWAGI               |                                                         |
+================================================================================
+================================================================================
+|Lp.|EAN           |NAZWA                                     |ILOSC  |JM    |G|
+================================================================================
+|  1|5900956000633 |HO Malina                                 |  12.00|sztuka| |
+|  2|5900956003627 |HO Malina z Dzika Roza                    |  12.00|sztuka| |
+|  3|5900956003634 |HO Malina z Zurawina                      |  12.00|sztuka| |
+|  4|5900956100593 |OS Malina                                 |  24.00|sztuka| |
+|  5|5900956102436 |OS Malina z Dzika Roza                    |  16.00|sztuka| |
+|  6|5900956100609 |OS Malina z melisa                        |  16.00|sztuka| |
+|  7|5900956100630 |OS Wisnia                                 |   8.00|sztuka| |
+--------------------------------------------------------------------------------
+Koniec zamowienia 3827467
+
+
+================================================================================
+|NR ZAMOWIENIE       |3827451                                                  |
+|HURTOWNIA           |"UNIMA" SP. Z O.O.                                       |
+|DATA ZAMOWIENIA     |2009-09-14                                               |
+|DATA DOSTAWY        |2009-09-15                                               |
+|ODBIORCA            |MIRA ZIEL-GORA PODGORNA 93                               |
+|NIP                 |9290000696                                               |
+|PLATNIK             |MIRA                                                     |
+|PRACOWNIK           |Marek Zakrzewski                                         |
+|FORMA PLATNOSCI     |P                                                        |
+|UWAGI               |                                                         |
+================================================================================
+================================================================================
+|Lp.|EAN           |NAZWA                                     |ILOSC  |JM    |G|
+================================================================================
+|  1|5900956004235 |HE Herbata Zielona Cytrynowa              |   9.00|sztuka| |
+|  2|5900956004266 |HE Zielona Lisciasta                      |   6.00|sztuka| |
+|  3|5900956000701 |HO Kwiat Hibiskusa                        |   6.00|sztuka| |
+|  4|5900956102429 |OS Malina z Cytryna                       |   8.00|sztuka| |
+|  5|5900956102443 |OS Malina z Zurawina                      |   8.00|sztuka| |
+|  6|5900956002354 |ZP Pokrzywa                               |   6.00|sztuka| |
+--------------------------------------------------------------------------------
+Koniec zamowienia 3827451
+
+
+================================================================================
+|NR ZAMOWIENIE       |3827452                                                  |
+|HURTOWNIA           |"UNIMA" SP. Z O.O.                                       |
+|DATA ZAMOWIENIA     |2009-09-14                                               |
+|DATA DOSTAWY        |2009-09-15                                               |
+|ODBIORCA            |TST KARMAG RACULA GLOGOWSKA 55                           |
+|NIP                 |9290009973                                               |
+|PLATNIK             |TST KARMAG                                               |
+|PRACOWNIK           |Marek Zakrzewski                                         |
+|FORMA PLATNOSCI     |P                                                        |
+|UWAGI               |                                                         |
+================================================================================
+================================================================================
+|Lp.|EAN           |NAZWA                                     |ILOSC  |JM    |G|
+================================================================================
+|  1|5900956003627 |HO Malina z Dzika Roza                    |   6.00|sztuka| |
+|  2|5900956002637 |HO Truskawka z Wanilia                    |   6.00|sztuka| |
+|  3|5900956003146 |HO Zurawina                               |   6.00|sztuka| |
+|  4|5900956100593 |OS Malina                                 |   8.00|sztuka| |
+|  5|5900956100609 |OS Malina z melisa                        |   8.00|sztuka| |
+|  6|5900956102443 |OS Malina z Zurawina                      |   8.00|sztuka| |
+--------------------------------------------------------------------------------
+Koniec zamowienia 3827452
+
+
+================================================================================
+|NR ZAMOWIENIE       |3827454                                                  |
+|HURTOWNIA           |"UNIMA" SP. Z O.O.                                       |
+|DATA ZAMOWIENIA     |2009-09-14                                               |
+|DATA DOSTAWY        |2009-09-15                                               |
+|ODBIORCA            |TST KARMAG RACULA GLOGOWSKA 55                           |
+|NIP                 |9290009973                                               |
+|PLATNIK             |TST KARMAG                                               |
+|PRACOWNIK           |Marek Zakrzewski                                         |
+|FORMA PLATNOSCI     |P                                                        |
+|UWAGI               |                                                         |
+================================================================================
+================================================================================
+|Lp.|EAN           |NAZWA                                     |ILOSC  |JM    |G|
+================================================================================
+|  1|5900956102962 |GU Green Up Tropikalny 250ml              |  24.00|sztuka| |
+|  2|5900956100616 |OS Malina z lipa                          |   8.00|sztuka| |
+|  3|5900956102443 |OS Malina z Zurawina                      |   8.00|sztuka| |
+|  4|5900956101231 |OS Premium Malina z Kwiatem Lipy          |   8.00|sztuka| |
+|  5|5900956102450 |OS Zurawina z Cytryna                     |   8.00|sztuka| |
+|  6|5900956002309 |ZP Mieta                                  |   6.00|sztuka| |
+--------------------------------------------------------------------------------
+Koniec zamowienia 3827454
+
+
+================================================================================
+|NR ZAMOWIENIE       |3827456                                                  |
+|HURTOWNIA           |"UNIMA" SP. Z O.O.                                       |
+|DATA ZAMOWIENIA     |2009-09-14                                               |
+|DATA DOSTAWY        |2009-09-15                                               |
+|ODBIORCA            |REGINA ZIMNA ZIEL-GORA MIESZKA I 01-sty                  |
+|NIP                 |9730272307                                               |
+|PLATNIK             |REGINA ZIMNA                                             |
+|PRACOWNIK           |Marek Zakrzewski                                         |
+|FORMA PLATNOSCI     |P                                                        |
+|UWAGI               |                                                         |
+================================================================================
+================================================================================
+|Lp.|EAN           |NAZWA                                     |ILOSC  |JM    |G|
+================================================================================
+|  1|5900956100647 |OS Aronia                                 |   8.00|sztuka| |
+|  2|5900956100630 |OS Wisnia                                 |   8.00|sztuka| |
+--------------------------------------------------------------------------------
+Koniec zamowienia 3827456
+
+
+================================================================================
+|NR ZAMOWIENIE       |3827457                                                  |
+|HURTOWNIA           |"UNIMA" SP. Z O.O.                                       |
+|DATA ZAMOWIENIA     |2009-09-14                                               |
+|DATA DOSTAWY        |2009-09-15                                               |
+|ODBIORCA            |SZESNASTKA ZIEL-GORA MIESZKA I 04-lut                    |
+|NIP                 |9290000696                                               |
+|PLATNIK             |SZESNASTKA                                               |
+|PRACOWNIK           |Marek Zakrzewski                                         |
+|FORMA PLATNOSCI     |P                                                        |
+|UWAGI               |                                                         |
+================================================================================
+================================================================================
+|Lp.|EAN           |NAZWA                                     |ILOSC  |JM    |G|
+================================================================================
+|  1|5900956004228 |HE Herbata Zielona                        |   9.00|sztuka| |
+|  2|5900956004266 |HE Zielona Lisciasta                      |   6.00|sztuka| |
+|  3|5900956002347 |ZP Lipa                                   |   6.00|sztuka| |
+|  4|5900956002323 |ZP Melisa                                 |   6.00|sztuka| |
+--------------------------------------------------------------------------------
+Koniec zamowienia 3827457
+
+
+================================================================================
+|NR ZAMOWIENIE       |3827459                                                  |
+|HURTOWNIA           |"UNIMA" SP. Z O.O.                                       |
+|DATA ZAMOWIENIA     |2009-09-14                                               |
+|DATA DOSTAWY        |2009-09-15                                               |
+|ODBIORCA            |REMIGIUSZ JARCZYK ZIEL -GORA WYSZYNSKIEGO 34             |
+|NIP                 |0000000003                                               |
+|PLATNIK             |REMIGIUSZ JARCZYK                                        |
+|PRACOWNIK           |Marek Zakrzewski                                         |
+|FORMA PLATNOSCI     |P                                                        |
+|UWAGI               |                                                         |
+================================================================================
+================================================================================
+|Lp.|EAN           |NAZWA                                     |ILOSC  |JM    |G|
+================================================================================
+|  1|5900956004075 |HE Malina                                 |   9.00|sztuka| |
+|  2|5900956004105 |HE Mieta                                  |   9.00|sztuka| |
+|  3|5900956004174 |HE Owoce Lasu                             |   9.00|sztuka| |
+|  4|5900956102429 |OS Malina z Cytryna                       |   8.00|sztuka| |
+|  5|5900956100609 |OS Malina z melisa                        |   8.00|sztuka| |
+|  6|5900956101330 |OS Premium Zurawina                       |   8.00|sztuka| |
+--------------------------------------------------------------------------------
+Koniec zamowienia 3827459
+
+
+================================================================================
+|NR ZAMOWIENIE       |3827460                                                  |
+|HURTOWNIA           |"UNIMA" SP. Z O.O.                                       |
+|DATA ZAMOWIENIA     |2009-09-14                                               |
+|DATA DOSTAWY        |2009-09-15                                               |
+|ODBIORCA            |SPOLEM ZIEL-GORA AL. WOJ..POLSKIEGO 86                   |
+|NIP                 |9290093545                                               |
+|PLATNIK             |SPOLEM                                                   |
+|PRACOWNIK           |Marek Zakrzewski                                         |
+|FORMA PLATNOSCI     |P                                                        |
+|UWAGI               |                                                         |
+================================================================================
+================================================================================
+|Lp.|EAN           |NAZWA                                     |ILOSC  |JM    |G|
+================================================================================
+|  1|5900956100647 |OS Aronia                                 |   8.00|sztuka| |
+|  2|5900956100593 |OS Malina                                 |   8.00|sztuka| |
+|  3|5900956002323 |ZP Melisa                                 |   6.00|sztuka| |
+|  4|5900956002309 |ZP Mieta                                  |   6.00|sztuka| |
+--------------------------------------------------------------------------------
+Koniec zamowienia 3827460
+
+
+================================================================================
+|NR ZAMOWIENIE       |3827461                                                  |
+|HURTOWNIA           |"UNIMA" SP. Z O.O.                                       |
+|DATA ZAMOWIENIA     |2009-09-14                                               |
+|DATA DOSTAWY        |2009-09-15                                               |
+|ODBIORCA            |BAZAN ZIEL-GORA LISIA 53A                                |
+|NIP                 |9291482088                                               |
+|PLATNIK             |BAZAN                                                    |
+|PRACOWNIK           |Marek Zakrzewski                                         |
+|FORMA PLATNOSCI     |P                                                        |
+|UWAGI               |                                                         |
+================================================================================
+================================================================================
+|Lp.|EAN           |NAZWA                                     |ILOSC  |JM    |G|
+================================================================================
+|  1|5900956004228 |HE Herbata Zielona                        |   9.00|sztuka| |
+|  2|5900956004266 |HE Zielona Lisciasta                      |   6.00|sztuka| |
+|  3|5900956000640 |HO Dzika Roza                             |   6.00|sztuka| |
+|  4|5900956000633 |HO Malina                                 |   6.00|sztuka| |
+|  5|5900956003146 |HO Zurawina                               |   6.00|sztuka| |
+--------------------------------------------------------------------------------
+Koniec zamowienia 3827461
+
+
+================================================================================
+|NR ZAMOWIENIE       |3827462                                                  |
+|HURTOWNIA           |"UNIMA" SP. Z O.O.                                       |
+|DATA ZAMOWIENIA     |2009-09-14                                               |
+|DATA DOSTAWY        |2009-09-15                                               |
+|ODBIORCA            |SPRL BRUKS STROMBEEK-BEVER KLEINWINKELLAN 64             |
+|NIP                 |0882415136                                               |
+|PLATNIK             |SPRL BRUKS                                               |
+|PRACOWNIK           |Marek Zakrzewski                                         |
+|FORMA PLATNOSCI     |P                                                        |
+|UWAGI               |                                                         |
+================================================================================
+================================================================================
+|Lp.|EAN           |NAZWA                                     |ILOSC  |JM    |G|
+================================================================================
+|  1|5900956102955 |GU Green Up Granat 250ml                  |  24.00|sztuka| |
+|  2|5900956102962 |GU Green Up Tropikalny 250ml              |  48.00|sztuka| |
+|  3|5900956102948 |GU Green Up Zurawina 250ml                |  32.00|sztuka| |
+|  4|5900956004235 |HE Herbata Zielona Cytrynowa              |  27.00|sztuka| |
+|  5|5900956100593 |OS Malina                                 |  40.00|sztuka| |
+|  6|5900956002330 |ZP Szalwia                                |  12.00|sztuka| |
+--------------------------------------------------------------------------------
+Koniec zamowienia 3827462
+
+
+
+------=_Part_10749_400571625.1252936448654--
